@@ -1,0 +1,517 @@
+{
+  "headerData": {
+    "logoDark": "images/javad.png",
+    "logoLight": "images/logo-light.svg"
+  },
+  "heroData": {
+    "title": "My name<br />is <em>Javad</em> <span><br />Haditaghi</span>",
+    "subTitle": "<span>Web Developer</span>, <span>Linguist</span>, <span>Data Analyst</span>",
+    "ImgLink": "images/output-onlinepngtools-1-1.png",
+    "phone": "+98 937 606 8193",
+    "email": "javadht1990a@gmail.com",
+    "btnText": "Check my CV",
+    "socialData": [
+      {
+        "link": "https://github.com/javadhaditaghi",
+        "icon": "github"
+      },
+      {
+        "link": "https://scholar.google.com/citations?user=WugVbXEAAAAJ&hl=en",
+        "icon": "google-scholar"
+      },
+      {
+        "link": "https://www.linkedin.com/in/javad-haditaghi",
+        "icon": "linkedin"
+      },
+      {
+        "link": "https://t.me/JavadHad90",
+        "icon": "telegram"
+      }
+    ]
+  },
+  "aboutData": {
+    "aboutLeft": {
+      "ImgLink": "images/imgdown.jpeg",
+      "name": "Javad Haditaghi",
+      "designation": "<span>Web Developer</span>, <span>Linguist</span>, <span>Data Analyst</span>",
+      "resumeCv": "Resume.pdf"
+    },
+    "aboutRight": {
+      "aboutText": "I am an experienced web developer and data analyst with a strong background in computational linguistics and English teaching. I hold an M.A. in English Teaching from The University of Guilan. Skilled in various programming languages and frameworks, I excel in developing AI-driven web applications and conducting data analysis to enhance user experience and inform strategic decisions. My research Interests are:",
+      "contactInfo": [
+        {
+          "icon": "book",
+          "data": "Computational Linguistics"
+        },
+        {
+          "icon": "book",
+          "data": "Machine Learning"
+        },
+        {
+          "icon": "book",
+          "data": "Natural Language Processing"
+        },
+        {
+          "icon": "book",
+          "data": "Network Theory"
+        },
+        {
+          "icon": "book",
+          "data": "Complex Theory"
+        }, 
+        {
+          "icon": "book",
+          "data": "Interdisciplinary Approaches"
+        },
+        {
+          "icon": "book",
+          "data": "Deep Learning"
+        },
+        {
+          "icon": "book",
+          "data": "Data Analysis"
+        }
+      ],
+      "archivement": [
+        {
+          "number": "Linguist",
+          "meta": "",
+          "text": "In an age where technology is rapidly transforming communication, I am captivated by the question: Can machines truly understand the nuances of human language? My passion for computational linguistics was sparked by reading the groundbreaking paper <span>“Attention is All You Need.”</span> "
+        },
+        {
+          "number": "Developer",
+          "meta": "",
+          "text": "This curiosity has fueled my academic and professional journey, shaping my path from an eager student to my current role as the Head of Dekateam, where I integrate advanced AI technologies into web development. My philosophy aligns well with Edsger W. Dijkstra's perspective: "
+        }
+      ],
+      "note": "“The art of programming is the art of organizing complexity, of mastering multitude and avoiding its bastard chaos as effectively as possible.”"
+    }
+  },
+  "experienceData": {
+    "text": "Explore my professional journey and download my resume for a detailed overview.",
+    "resumeCv": "Resume.pdf",
+    "experience": [
+      {
+        "start": "2023",
+        "end": "Present",
+        "title": "HEAD OF DEKATEAM",
+        "subtitle": "Mashhad, Iran"
+      },
+      {
+        "start": "2020",
+        "end": "Present",
+        "title": "WEB DEVELOPER & DATA ANALYST",
+        "subtitle": "Golden Nutrition LLC, California, USA"
+      },
+      {
+        "start": "2017",
+        "end": "2020",
+        "title": "WEB DEVELOPER",
+        "subtitle": "Freelancer"
+      }
+      ,
+      {
+        "start": "2017",
+        "end": "2020",
+        "title": "ENGLISH TEACHER",
+        "subtitle": "Various Institutes"
+      }
+    ]
+  },
+  "serviceData": [
+    {
+      "title": "Data Analysis and NLP",
+      "heading": "Tools & Technologies: Pandas, NumPy, PyTorch, Matplotlib, Seaborn, scikit-learn, Keras, Beautiful Soup, Scrapy, Selenium, NLTK",
+      "triger": "Two",
+      "imgLink": "images/dataandnlp.svg",
+      "text": "In my work with Data Analysis and Natural Language Processing (NLP), I utilize advanced tools and technologies such as Pandas, NumPy, PyTorch, Matplotlib, Seaborn, scikit-learn, Keras, Beautiful Soup, Scrapy, Selenium, and NLTK. Leveraging these, I have developed a sophisticated recommendation system for Iranian stores, using AI-trained models and NLP techniques to provide personalized shopping experiences. Additionally, I have trained a deep learning model to accurately predict the best housing prices in various areas of Mashhad, combining deep learning methods with exploratory data analysis to uncover significant market trends and insights."
+    },
+    {
+      "title": "Web Development",
+      "heading": "Tools & Technologies: React.js, Next.js, Node.js, HTML, CSS, JavaScript, Sass, Material-UI, Tailwind, Bootstrap, jQuery, Ajax",
+      "triger": "One",
+      "imgLink": "images/WebDeveloper.svg",
+      "text": "In my work with Web Development, I utilize a diverse set of tools and technologies including React.js, Next.js, Node.js, HTML, CSS, JavaScript, Sass, Material-UI, Tailwind, Bootstrap, jQuery, and Ajax. I have designed and developed the Golden Saffron website using HTML, CSS, JavaScript, Ajax, Bootstrap, and pure PHP, creating a visually appealing and functional online presence. Additionally, I developed a Consumer Magazine website with React and Material-UI, ensuring a dynamic and responsive user interface. I also created a Restaurant dashboard using React and Next.js, delivering a seamless and efficient management platform. These projects, among others, showcase my capability to build robust and engaging web applications."
+    },
+    
+    {
+      "title": "Programming Languages",
+      "heading": "Tools & Technologies: Python, JavaScript (ES6, ES5) , php, LATEX",
+      "imgLink": "images/programming.png",
+      "text": "In my programming endeavors, I utilize a range of languages and technologies including Python, JavaScript (ES6, ES5), PHP, and LaTeX. My Python expertise has been instrumental in developing AI-driven recommendation systems and deep learning models for various applications, such as predicting housing prices and analyzing data trends. I have extensively used JavaScript for front-end development, employing it in projects like the Golden Saffron website and the Consumer Magazine website, utilizing frameworks such as React and Next.js. Additionally, I have leveraged PHP for server-side development in projects like the Golden Saffron website. For documentation and academic writing, I rely on LaTeX to produce professional and well-structured documents."
+    },
+    {
+      "title": "Project Management",
+      "heading": "GitHub, GitLab, Trello, Jira, Slack",
+      "triger": "Four",
+      "imgLink": "images/project.png",
+      "text": "In my project management practices, I utilize a variety of tools including GitHub, GitLab, Trello, Jira, and Slack. I primarily use GitHub for version control and collaborative coding, ensuring seamless integration and continuous delivery. Trello is my go-to for task management and organization, allowing me to visualize project progress and prioritize tasks effectively. For team communication and collaboration, I rely on Slack to maintain clear and efficient communication channels, facilitating real-time discussions and updates. These tools enable me to manage projects efficiently, ensuring timely delivery and high-quality outcomes."
+    }
+  ],
+  "portfolioData": [
+    {
+      "ImgLink": "images/meta_js_cert.png",
+      "subTitle": "META",
+      "title": "Programming with JavaScript",
+      "link": "https://www.coursera.org/account/accomplishments/verify/EH9JS2FEM925?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course",
+      "paragraphList": [
+        {
+          "text": "Taking the “Programming with JavaScript” course on Coursera was a transformative experience that significantly enhanced my understanding of web development. The course, offered by Meta, provided a comprehensive overview of JavaScript, from fundamental concepts to advanced techniques. It included 20 videos, 21 readings, 9 quizzes, and 3 substantial programming assignments, which together offered a robust and interactive learning experience. The hands-on assignments were particularly valuable, enabling me to apply theoretical concepts in practical scenarios and solidify my understanding through practice."
+        },
+        {
+          "text": "The course began with an introduction to JavaScript's core concepts, such as functional programming and scope management using var, let, and const. These foundational modules were crucial for building a solid understanding of how JavaScript functions at a fundamental level. Moving forward, the course delved into object-oriented programming, covering essential topics like classes and inheritance. These sections were insightful, providing a deeper understanding of how to structure and organize code effectively for more complex applications."
+        },
+        {
+          "text": "One of the most engaging aspects of the course was the focus on modern JavaScript features and best practices. Topics like template literals, destructuring arrays and objects, and using the spread and rest operators were covered comprehensively. Additionally, the course included modules on JavaScript DOM manipulation and event handling, which are critical for developing interactive web applications. The inclusion of these advanced topics ensured that I was well-versed in the latest JavaScript techniques, making me more proficient and efficient in my coding practices."
+        },
+        {
+          "text": "The final modules of the course were dedicated to testing and Node.js, which were invaluable for understanding the broader ecosystem of JavaScript. Learning about testing frameworks like Jest and the principles of Test-Driven Development (TDD) was particularly useful, as it emphasized the importance of writing reliable and maintainable code. The course concluded with a graded assessment project that brought together all the skills learned, providing a satisfying and comprehensive end to the learning journey. "
+        }
+      ]
+    },
+    {
+      "ImgLink": "images/python.png",
+      "subTitle": "MFT",
+      "title": "Python Programming",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "Reflecting on my journey to become proficient in Python, one of the pivotal moments was completing the “Python Programming” course offered by Mojtam Fanni Mashhad (MFT) in Mashhad. This course was fundamental in solidifying my understanding of Python basics and establishing my credentials as a certified Python programmer. It was an intensive program that covered a wide range of topics, ensuring a comprehensive grasp of the language's core concepts."
+        },
+        {
+          "text": "During the course, I revisited and deepened my knowledge of Python syntax and basic constructs, such as variables, data types, and control structures. The instructors did an excellent job of breaking down complex topics into manageable lessons. Each module was structured to build upon the previous one, which facilitated a smooth learning curve. The practical exercises were particularly beneficial, as they required me to apply theoretical knowledge to solve real-world problems, reinforcing my understanding and boosting my confidence in writing Python code."
+        },
+        {
+          "text": "One of the highlights of the course was the focus on functions and modular programming. We explored how to write reusable and efficient code by creating functions and organizing them into modules. This was a game-changer for me, as it significantly improved my coding efficiency and readability. Additionally, the course covered error handling and debugging techniques, which are crucial skills for any programmer. These lessons taught me how to write more robust programs and troubleshoot issues effectively."
+        },
+        {
+          "text": "By the end of the course, I had not only reaffirmed my Python skills but also gained a certification that recognized my proficiency. This certification was a testament to the rigorous training and my commitment to mastering Python. Completing the “Python Programming” course from Mojtam Fanni Mashhad was a significant milestone in my programming career, providing me with the foundational skills necessary to tackle more advanced projects and further my professional development in the field of software development."
+        }
+      ]
+    },
+    {
+      "ImgLink": "images/advancedPython.png",
+      "subTitle": "MFT",
+      "title": "Advanced Python Programming",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "Completing the “Advanced Python Programming” course from Mojtam Fanni Mashhad (MFT) in Mashhad was a transformative experience that significantly enhanced my skills in data analysis and machine learning. This course was designed to delve deeper into Python's capabilities, focusing on using advanced libraries and frameworks for data manipulation, visualization, and the implementation of machine learning and deep learning algorithms. It was a challenging yet rewarding journey that equipped me with the tools necessary to tackle complex data-driven projects."
+        },
+        {
+          "text": "One of the first major topics we covered was data manipulation using Pandas. Pandas is an essential library for data analysis, providing data structures and functions needed to efficiently manipulate large datasets. Through practical exercises, I learned how to clean, transform, and analyze data, making it ready for further processing. This was followed by a deep dive into NumPy, another critical library for numerical computations. NumPy’s powerful array manipulation capabilities were crucial for handling large-scale data efficiently, which is a fundamental aspect of any data science project."
+        },
+        {
+          "text": "Visualization is a key part of data analysis, and this course placed significant emphasis on it using Matplotlib and Seaborn. Matplotlib provided a solid foundation for creating static, animated, and interactive plots, while Seaborn allowed for more aesthetically pleasing and complex statistical visualizations. Mastering these libraries enabled me to represent data insights clearly and effectively, which is vital for both exploratory data analysis and presenting results to stakeholders."
+        },
+        {
+          "text": "The course's most exciting and challenging part was learning about machine learning and deep learning through libraries such as Scikit-learn, PyTorch, and OpenCV. Scikit-learn offered a wide range of simple and efficient tools for data mining and data analysis, and it was instrumental in learning to build and evaluate machine learning models. PyTorch, a deep learning framework, provided the tools needed to build and train neural networks. Additionally, OpenCV was introduced for image processing tasks, which broadened my ability to work on computer vision projects. This comprehensive approach to learning advanced Python programming has not only expanded my skill set but also prepared me to apply these techniques in real-world scenarios, making the course a pivotal step in my professional development."
+        }
+      ]
+    }
+    ,
+    {
+      "ImgLink": "images/webDesign.png",
+      "subTitle": "MFT",
+      "title": "Web Design",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "Completing the “Web Design” course at Mojtam Fanni Mashhad (MFT) was an enlightening experience that equipped me with the essential skills to create responsive and user-friendly web interfaces. This comprehensive course covered the core technologies of web development, including HTML, CSS, JavaScript, AJAX, and PHP. The structured curriculum provided a solid foundation in front-end and back-end web development, enabling me to build dynamic and interactive websites from scratch."
+        },
+        {
+          "text": "The journey began with HTML and CSS, the building blocks of web design. Through hands-on projects, I learned to create well-structured web pages using HTML, and to style them with CSS to make them visually appealing. The course emphasized the importance of responsive design, teaching me techniques such as media queries and flexible grid layouts to ensure that websites look great on all devices. This foundational knowledge was crucial for developing modern, mobile-friendly websites."
+        },
+        {
+          "text": "Next, the course delved into JavaScript, which brought interactivity to my web projects. I learned to manipulate the DOM, handle events, and create dynamic content, which significantly enhanced the user experience. The introduction of AJAX was particularly exciting, as it allowed me to update web pages asynchronously, providing a smoother and more responsive user experience. This section of the course highlighted the importance of JavaScript in modern web development and its role in creating interactive, real-time applications."
+        },
+        {
+          "text": "The final part of the course focused on PHP, a powerful server-side scripting language. I learned to handle form data, manage sessions, and interact with databases, which are essential for creating dynamic and data-driven websites. By integrating PHP with HTML, CSS, and JavaScript, I was able to build fully functional web applications. This holistic approach to web design and development provided me with a well-rounded skill set, enabling me to tackle a wide range of web development projects confidently. Overall, the “Web Design” course at MFT Mashhad was a pivotal step in my journey as a web developer, laying a strong foundation for my future endeavors in this field."
+        }
+      ]
+    }
+    ,
+    {
+      "ImgLink": "",
+      "subTitle": "MFT",
+      "title": "React & Material UI",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "Taking the “React & Material UI” course was a pivotal step in advancing my front-end development skills. The course provided a comprehensive overview of React, a powerful JavaScript library for building user interfaces, and Material UI, a popular React component library that implements Google's Material Design. This combination allowed me to create sophisticated and visually appealing web applications with ease. The course covered the core concepts of React, including components, state, props, and hooks, and demonstrated how to integrate Material UI to enhance the UI/UX of React applications."
+        },
+        {
+          "text": "The React portion of the course delved into essential topics such as creating and managing stateful components, using hooks for managing side effects, and handling routing in single-page applications (SPAs). By building various projects, I gained hands-on experience with React's declarative approach and learned how to structure applications efficiently. This solidified my understanding of how to create dynamic and interactive user interfaces, leveraging React's component-based architecture for reusability and maintainability."
+        },
+        {
+          "text": "Next, the course delved into JavaScript, which brought interactivity to my web projects. I learned to manipulate the DOM, handle events, and create dynamic content, which significantly enhanced the user experience. The introduction of AJAX was particularly exciting, as it allowed me to update web pages asynchronously, providing a smoother and more responsive user experience. This section of the course highlighted the importance of JavaScript in modern web development and its role in creating interactive, real-time applications."
+        },
+        {
+          "text": "Incorporating Material UI into my React projects significantly improved the aesthetic and functionality of the applications. The course taught me how to use Material UI's extensive set of pre-built components, such as buttons, dialogs, and navigation bars, which adhere to Material Design principles. These components not only enhanced the visual appeal but also ensured consistency and accessibility across the application. Learning to customize these components with themes and styling further allowed me to create a unique and cohesive design that met specific project requirements. Overall, the “React & Material UI” course was instrumental in equipping me with the skills to build professional, high-quality web applications efficiently."
+        } 
+      ]
+    }
+    ,
+    {
+      "ImgLink": "images/udemy_htmlandcss.png",
+      "subTitle": "MFT",
+      "title": "HTML5 & CSS3: Build Websites like a Pro",
+      "link": "",
+      "paragraphList": [
+        {
+          "text": "Taking this course on Udemy was an excellent opportunity for me to revisit and reinforce my understanding of HTML and CSS. This course provided a thorough review of the fundamental aspects of web design, focusing on creating responsive and user-friendly interfaces. It was structured to cater to both beginners and those looking to refresh their skills, making it perfect for my needs as I sought to solidify my proficiency in these essential web technologies."
+        },
+        {
+          "text": "The course started with an in-depth exploration of HTML5, the latest version of the HyperText Markup Language. It covered everything from basic tags to more advanced features like semantic elements, forms, and multimedia. By working through practical examples and exercises, I was able to grasp how to structure web content effectively, ensuring that my web pages were not only well-organized but also accessible and SEO-friendly. This foundational knowledge was crucial for building robust and maintainable websites."
+        },
+        {
+          "text": "Moving on to CSS3, the course delved into styling and layout techniques essential for modern web design. I learned about flexbox, grid layouts, animations, and transitions, all of which are key to creating visually appealing and responsive web interfaces. The emphasis on responsive design principles, such as media queries and fluid layouts, was particularly valuable. These skills enabled me to create web pages that adapt seamlessly to different screen sizes and devices, enhancing the user experience. Overall, this course was instrumental in refining my web design capabilities, equipping me with the skills to build professional-grade websites."
+        }
+      ]
+    }
+  ],
+  "blogData": [
+    {
+      "ImgLink": "images/article_1.png",
+      "date": "12 September, 2020",
+      "delay": "700",
+      "title": "A Few Useful Things to Know About Machine Learning - Pedro Domingos (Summary)",
+      "paragraphList": [
+          {
+              "text": "<b>Learning = Representation + Evaluation + Optimization:</b><br> The choice of model (linear models, decision trees, neural networks) is crucial. Evaluation metrics like accuracy, precision, recall, and AUC assess performance. Optimization methods like gradient descent find the best parameters."
+          },
+          {
+              "text": "<b>Generalization and Overfitting:</b><br> Generalization ensures a model performs well on unseen data. Overfitting occurs when a model learns noise in the training data. Regularization (L1, L2) and dropout techniques help prevent overfitting."
+          },
+          {
+              "text": "<b>The No Free Lunch Theorem:</b><br> No single learning algorithm works best for every problem. The effectiveness depends on the specific problem and dataset, highlighting the importance of experimentation and domain knowledge."
+          },
+          {
+              "text": "<b>The Curse of Dimensionality:</b><br> High-dimensional data can hinder learning. Dimensionality reduction (PCA, t-SNE) and feature selection are essential to manage the volume of the feature space."
+          },
+          {
+              "text": "<b>Bias-Variance Tradeoff:</b><br> Bias is the error due to overly simplistic models, while variance is due to overly complex models. Balancing bias and variance is key to creating robust models, with ensemble methods helping reduce both."
+          },
+          {
+              "text": "<b>Feature Engineering:</b><br> Selecting and transforming variables improves model performance. Techniques include mathematical transformations, interaction features, and domain-specific features."
+          },
+          {
+              "text": "<b>Data Quality:</b><br> High-quality data is crucial for good models. Data cleaning, data augmentation, and ensuring label quality are important steps."
+          },
+          {
+              "text": "<b>Evaluation and Validation:</b><br> Proper evaluation ensures models generalize well. Methods like train/validation/test split and cross-validation provide robust assessments of model performance."
+          },
+          {
+              "text": "<b>Pitfalls in Machine Learning:</b><br> Common pitfalls include data leakage, imbalanced classes, and over-reliance on metrics. Using multiple evaluation metrics and understanding the context helps avoid misleading conclusions."
+          },
+          {
+              "text": "<b>Machine Learning Workflow:</b><br> The workflow includes data collection, preprocessing, model selection, training, evaluation, and deployment. Iterative refinement based on feedback is often necessary."
+          },
+          {
+              "text": "<b>Understanding and Debugging Models:</b><br> Techniques like model interpretability (feature importance, SHAP values), visualization, and diagnostic tools (confusion matrices, ROC curves) help understand and improve model predictions."
+          },
+          {
+            "text": "<b>Further Reading:</b><br><a href='https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf' target='__blank'>A few useful things to know about machine learning</a><br> <a href='https://filipegood.medium.com/summary-of-the-article-a-few-useful-things-to-know-about-machine-learning-by-pedro-domingos-ecf1ef3e6ae9' target='__blank'>Summary of the article “A few useful things to know about machine learning” by Pedro Domingos</a>"
+        }
+      ]
+  }
+  ,
+  {
+    "ImgLink": "images/article_2.png",
+    "date": "12 September, 2022",
+    "delay": "700",
+    "title": "Seq2Seq: Sequence to Sequence Learning with Neural Networks - Sutskever et al., 2014 (Summary)",
+    "paragraphList": [
+        {
+            "text": "<b>Introduction:</b><br>The paper introduces a novel neural network architecture designed for sequence-to-sequence (Seq2Seq) learning, particularly in the context of machine translation. The authors propose using two recurrent neural networks (RNNs) to handle variable-length input and output sequences."
+        },
+        {
+            "text": "<b>Key Contributions:</b><br><ul><li><b>Encoder-Decoder Framework:</b> The Seq2Seq model consists of an encoder and a decoder, both RNNs. The encoder processes the input sequence and compresses it into a fixed-length context vector. The decoder generates the output sequence from this context vector.</li><li><b>Handling Variable-Length Sequences:</b> The model can process sequences of varying lengths, essential for tasks like machine translation. This flexibility is achieved through the use of RNNs.</li><li><b>Reversing the Input Sequence:</b> Reversing the order of the words in the input sequence significantly improves the model's performance by making it easier for the optimization procedure to learn long-term dependencies.</li><li><b>Training with Stochastic Gradient Descent (SGD):</b> The model is trained using SGD with a minibatch approach. Curriculum learning, starting with shorter sentences and gradually increasing their length, improves convergence.</li><li><b>Use of Long Short-Term Memory (LSTM) Units:</b> Both the encoder and decoder RNNs use LSTM units to capture long-range dependencies and mitigate the vanishing gradient problem common in traditional RNNs.</li></ul>"
+        },
+        {
+            "text": "<b>Model Architecture:</b><br><ul><li><b>Encoder:</b> An LSTM network processes the input sequence X = (x1, x2, ..., xT) and produces hidden states ht. The final hidden state hT serves as the context vector.</li><li><b>Decoder:</b> Another LSTM network takes the context vector as its initial hidden state and generates the output sequence Y = (y1, y2, ..., yT') step by step, predicting the next word based on its current hidden state and the previously generated word.</li></ul>"
+        },
+        {
+            "text": "<b>Experimental Results:</b><br><ul><li><b>Machine Translation:</b> The model is tested on the English-to-French translation task using the WMT'14 dataset, achieving competitive results and demonstrating effective learning of translation tasks.</li><li><b>Comparison with Phrase-Based Systems:</b> While not outperforming the best phrase-based translation systems at the time, the Seq2Seq model shows significant promise and establishes a strong baseline for neural machine translation.</li></ul>"
+        },
+        {
+            "text": "<b>Conclusion:</b><br>The Seq2Seq model represents a significant advancement in neural machine translation and sequence-to-sequence learning. Its ability to handle variable-length sequences and capture long-term dependencies using LSTM units is particularly noteworthy. The model's performance on machine translation tasks demonstrates its potential and lays the groundwork for future advancements in the field."
+        },
+        {
+            "text": "<b>Impact:</b><br>The Seq2Seq model introduced in this paper has had a profound impact on natural language processing (NLP) and machine translation. It has paved the way for subsequent developments, including the incorporation of attention mechanisms and the evolution of the Transformer architecture. The ideas presented in this paper continue to influence the design and training of modern NLP models."
+        }
+    ]
+}
+    
+  ],
+  "sliderData": {
+    "testimonialInfo": {
+      "useFor": "testimonial",
+      "settings": {
+        "infinite": true,
+        "speed": 1500,
+        "autoplay": true,
+        "autoplaySpeed": 5000,
+        "slidesToShow": 2,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "dots": true,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 1,
+              "autoplay": true
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "images/golden.png",
+          "link": "https://www.goldensaffron.com",
+          "name": "",
+          "designation": "",
+          "text": "Golden Saffron Website", 
+          "technologies": "Html, Css, JavaScript, Php"
+
+        },
+        {
+          "imgLink": "images/cute.png",
+          "link": "https://www.cutiebeauti.com/",
+          "name": "",
+          "designation": "",
+          "text": "CutieBeauti Website", 
+          "technologies": "Html, Css, JavaScript, Php"
+        },
+        {
+          "imgLink": "images/consumermag.png",
+          "link": "https://theconsumermagazine.com/reviews/",
+          "name": "",
+          "designation": "",
+          "text": "The Consumer Magazine Website", 
+          "technologies": "React, Material UI"
+        }
+        ,
+        {
+          "imgLink": "images/restaurant.png",
+          "link": "https://github.com/javadhaditaghi/restaurant-dashboard-React-",
+          "name": "",
+          "designation": "",
+          "text": "Restaurant Dashboard", 
+          "technologies": "React, Material UI"
+        }
+        ,
+        {
+          "imgLink": "images/housing.png",
+          "link": "https://github.com/javadhaditaghi/housing_price_mashhad",
+          "name": "",
+          "designation": "",
+          "text": "The Analysis of Housing Prices in Mashhad", 
+          "technologies": "Python (various libraries)"
+        }
+        ,
+        {
+          "imgLink": "images/noise.jpg",
+          "link": "https://github.com/javadhaditaghi/picture-noise-remover",
+          "name": "",
+          "designation": "",
+          "text": "Picture Noise Remover", 
+          "technologies": "Python, Flask, Open CV"
+        }
+      ]
+    },
+    "brandInfo": {
+      "useFor": "brand",
+      "settings": {
+        "infinite": true,
+        "speed": 1000,
+        "autoplay": true,
+        "autoplaySpeed": 3000,
+        "slidesToShow": 5,
+        "slidesToScroll": 1,
+        "arrows": false,
+        "responsive": [
+          {
+            "breakpoint": 991,
+            "settings": {
+              "slidesToShow": 4
+            }
+          },
+          {
+            "breakpoint": 767,
+            "settings": {
+              "slidesToShow": 3
+            }
+          }
+        ]
+      },
+      "info": [
+        {
+          "imgLink": "images/brand-1.png"
+        },
+        {
+          "imgLink": "images/brand-2.png"
+        },
+        {
+          "imgLink": "images/brand-3.png"
+        },
+        {
+          "imgLink": "images/brand-4.png"
+        },
+        {
+          "imgLink": "images/brand-1.png"
+        },
+        {
+          "imgLink": "images/brand-2.png"
+        }
+      ]
+    }
+  },
+  "contactData": {
+    "contactInfo": [
+      {
+        "icon": "chat-left-dots-fill",
+        "title": "Let's Connect",
+        "text": "I'm here to assist with any questions or inquiries. Reach out to me at ",
+        "emailLink": "javadht1990a@gmail.com"
+      },
+      {
+        "icon": "chat",
+        "title": "Informal Chat",
+        "text": "Let's have an informal chat about our shared academic interests. Add me on telegram or whatsapp: +98 937 606 8193"
+      },
+      {
+        "icon": "question-circle-fill",
+        "title": "Research Presentation",
+        "text": "Interested in my research? Let's arrange a presentation and discussion."
+      }
+    ],
+    "contactForm": {
+      "title": "Get in Touch",
+      "text": "I appreciate your interest in my research and academic journey. Whether you have questions, suggestions, or collaboration ideas, I would love to hear from you. Please use the form below to reach out, and I'll get back to you as soon as possible."
+    }
+  },
+  "footerData": {
+    "ImgLink": "images/about-banner.png",
+    "name": "Javad Haditaghi"
+  },
+  "socialData": [
+    {
+      "link": "https://github.com/javadhaditaghi",
+      "icon": "github"
+    },
+    {
+      "link": "https://scholar.google.com/citations?user=WugVbXEAAAAJ&hl=en",
+      "icon": "google-scholar"
+    },
+    {
+      "link": "https://www.linkedin.com/in/javad-haditaghi",
+      "icon": "linkedin"
+    },
+    {
+      "link": "https://t.me/JavadHad90",
+      "icon": "telegram"
+    }
+  ]
+}
