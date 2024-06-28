@@ -5,7 +5,7 @@ import { Icon } from '@iconify/react';
 
 const About = ({ data }) => {
   const { aboutLeft, aboutRight } = data;
-  const { ImgLink, name, designation, resumeCv } = aboutLeft;
+  const { ImgLink, name, designation, sop } = aboutLeft;
   const { aboutText, contactInfo, archivement, note } = aboutRight;
 
   return (
@@ -26,8 +26,8 @@ const About = ({ data }) => {
               <h3>{name}</h3>
               <p>{perser(designation)}</p>
               <div className="btn-bar">
-                <a className="px-btn" href={resumeCv} download>
-                  Download CV <Icon icon="bi-download" />
+                <a className="px-btn" href={sop} download>
+                  Download Statement of Purpose <Icon icon="bi-download" />
                 </a>
               </div>
             </div>

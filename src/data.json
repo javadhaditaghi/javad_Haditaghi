@@ -34,7 +34,9 @@
       "ImgLink": "images/imgdown.jpeg",
       "name": "Javad Haditaghi",
       "designation": "<span>Web Developer</span>, <span>Linguist</span>, <span>Data Analyst</span>",
-      "resumeCv": "Resume.pdf"
+      "resumeCv": "Resume.pdf",
+      "sop":"Statement_of_purpose__SOP_.pdf"
+
     },
     "aboutRight": {
       "aboutText": "I am an experienced web developer and data analyst with a strong background in computational linguistics and English teaching. I hold an M.A. in English Teaching from The University of Guilan. Skilled in various programming languages and frameworks, I excel in developing AI-driven web applications and conducting data analysis to enhance user experience and inform strategic decisions. My research Interests are:",
